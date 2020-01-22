@@ -1,0 +1,32 @@
+h1 {
+	color: green;
+}
+
+#main-container {
+	margin: 0px 20px;
+}
+
+table {
+	text-align: center;
+	font-size: 12px;
+}
+
+th {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+th, td {
+	text-align: center;
+}
+
+thead {
+	background-color: #1a3d53;
+	color: white;
+	text-transform: uppercase;
+}
+
+.centrar {
+	margin: 0 auto;
+	width: 200px;
+}
